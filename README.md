@@ -8,6 +8,10 @@ Most importantly, heavy explanation is written for all the confusing parts to th
 
 # DAY 1 
 - Basics of loading, making a copy of, and displaying the image using opnecv2.  
-- Converting the color image into grayscale image and converting that gray scale image into just pure black and white(only 0 and 1) using threshold function. 
+- Converting the color image into grayscale image and converting that gray scale image into just pure black and white(only 0 and 1) using threshold function.
+
+# Day 2 
+- Gaussian Blur
+- Moving Object Detection and Videos Capture
 
 
