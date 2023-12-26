@@ -15,7 +15,9 @@ Most importantly, heavy explanation is written for all the confusing parts to th
 - Moving Object Detection and Videos Capture
 
 # Day 3
-- Facee Detection using HaarCascade frontal face data and train the model
+- Face Detection using HaarCascade frontal face data and train the model
 - Make it able to predict the face, so take pictures of several faces and see that it recongnizes you or not!!
 
+# Day 4
+- Object Tracking through color
 
