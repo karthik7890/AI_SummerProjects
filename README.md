@@ -21,3 +21,6 @@ Most importantly, heavy explanation is written for all the confusing parts to th
 # Day 4
 - Object Tracking through color
 
+# Day 5
+- Face recognition where we feed with the different datasets of images of different persons and let the program recognise them.
+
